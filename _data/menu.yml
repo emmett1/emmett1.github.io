@@ -8,13 +8,13 @@ entries:
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-  - title: project
+  - title: projects
     entries:
       - title: "<a href='https://github.com/emmett1/lfs-scripts'>lfs-scripts</a>: A set of scripts to build linux distributions from scratch based on <a href='https://linuxfromscratch.org/lfs/view/9.1/'>LFS v9.1</a> with multilib enabled."
       - title: "<a href='https://github.com/emmett1/alicelinux'>alicelinux</a>: A minimal and lightweight linux distribution that use musl instead of glibc."
       - title: "<a href='https://github.com/emmett1/spm'>spm</a>: A Simple Package Manager written in POSIX shell script."
       - title: "<a href='https://github.com/emmett1/mkinitrd'>mkinitrd</a>: initramfs generator written in POSIX shell script."
-  - title: info
+  - title: me
     entries:
       - title: github
         url: https://github.com/emmett1
